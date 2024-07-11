@@ -44,4 +44,8 @@ Brief description of your project.
 
 ## Website
 
-Visit our website [here](https://BiscuitFootwear.com) for more information.
+
+
+Welcome to Biscuit Footwear! Explore our latest collections and more on our website:
+
+Visit [Biscuit Footwear Website](https://www.biscuitfootwear.com) for more information.
