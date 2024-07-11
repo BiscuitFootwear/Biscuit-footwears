@@ -38,9 +38,13 @@ We welcome contributions to improve the Biscuit Footwear website! Feel free to f
 ## License
 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
+
 # Project Name
 
 Brief description of your project.
+
+# Biscuit Footwear website 
+Visit [Biscuit Footwear Website](https://www.biscuitfootwear.com) for more information.
 
 ## Website
 
